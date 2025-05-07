@@ -11,7 +11,7 @@ Research Compendium for "Skills, scaling, and the role of youngsters in adaptati
 
 ### How to cite
 
-Vestergaard, Mathilde Meyer, Pedersen, Jesper Borre, Matzig, David Nicolas & Felix Riede (xxxx). Skills, scaling, and the role of youngsters in adaptation during the Northern European Final Palaeolithic.
+Meyer, Mathilde Vestergaard, Pedersen, Jesper Borre, Matzig, David Nicolas & Felix Riede (xxxx). Skills, scaling, and the role of youngsters in adaptation during the Northern European Final Palaeolithic.
 
 ### Content
 
