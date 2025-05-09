@@ -7,7 +7,7 @@ Research Compendium for "Skills, scaling, and the role of youngsters in adaptati
 
 ### Maintainer of the repository:
 
-![ORCiD](https://img.shields.io/badge/ORCiD-0000--0002--3468--0986-green.svg) Jesper Borre Pedersen (<jesper-borre.pedersen@ifu.uni-tuebingen.de>) 
+[![ORCiD](https://img.shields.io/badge/ORCiD-0000--0002--3468--0986-green.svg)](https://orcid.org/0000-0002-3468-0986) Jesper Borre Pedersen (<jesper-borre.pedersen@ifu.uni-tuebingen.de>) 
 
 ### How to cite
 
