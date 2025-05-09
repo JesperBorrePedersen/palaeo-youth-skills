@@ -3,7 +3,7 @@ Research Compendium for "Skills, scaling, and the role of youngsters in adaptati
 
 ### Compendium DOI:
 
-[![DOI](https://zenodo.org/badge/480841547.svg)](https://zenodo.org/badge/latestdoi/480841547) ### TO BE CHANGED
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15370365.svg)](https://doi.org/10.5281/zenodo.15370365)
 
 ### Maintainer of the repository:
 
